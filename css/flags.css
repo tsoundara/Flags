@@ -10,26 +10,24 @@
 	width: 200px;
 	height: 400px;
 	background-color: black;
+	float:left;
 
 }
 
 .yellow {
-	position: absolute;
-	left: 239px;
-	top: 31px;
 	width: 200px;
 	height: 400px;
 	background-color: yellow;
+	float: left;
 
 }
 
 .red {
-	position: absolute;
-	left: 439px;
-	top: 31px;
+
 	width: 200px;
 	height: 400px;
 	background-color: red;
+	float: left;
 }
 
 /* Flag of Japan */
