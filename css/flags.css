@@ -46,21 +46,22 @@
 
 
 /* Flag of Trinidad and Tobago */
-.trinred{
+.tred{
 	width: 600px;
 	height: 400px;
 	background-color: red;
+	overflow: hidden;
 }
 
 
-.trinblack{
-	
-	left: 300px;
-	top: 750px;
-	width: 80px;
-	height: 750px;
-	background-color: black;
+.tblack{
+	position: relative;
+	left: -200px;
+	top: 100px;
+	width: 900px;
+	height: 70px;
+	background: black;
 	border: white 30px solid;
-	transform: rotate(-45deg);
+	transform: rotate(42deg);
 
 }
